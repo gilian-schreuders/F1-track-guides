@@ -3,41 +3,34 @@
 ![map](https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.png.transform/7col/image.png)
 
 - Turn 1
+    - Gear 5 or 4
     - Break 75m
-    - Gear 5 of 4
     - All curb
 - Turn 3
-    - Break 75m
     - Gear 3 or 2
+    - Break 75m
     - Stay in the middle on exit
 - Turn 4
     - Gear 4
 - Turn 6
-    - Break 75m
     - Gear 4 or 3
+    - Break 75m
     - Can take curb
 - Turn 9
-    - Break 75m
-    - Gear 4
-    - Miss outer curb
-- Turn 11
+    - Gear 6 or 7 into delayed 6
     - Break 50m
-    - Gear 6 or 7 -> 6
     - Take full curb
-    - Left as possible
-- Turn 12
-    - Full throttle as soon
-    - Full curb on exit
-- Turn 13
-    - Break 75m
+    - Stay left as much as possible
+- Turn 11
     - Gear 4 or 3
-- Turn 14
-    - Gear 5
+    - Break 75m
+- Turn 12
+    - Gear 6 or 5
     - Brake little if needed
-- Turn 15
-    - Break > 50m
+- Turn 13
     - Gear 2
+    - Break 50m
     - Stay wide
-- Turn 16
+- Turn 14
     - Gear 4
     - Build speed slowly
