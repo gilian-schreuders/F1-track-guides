@@ -1,0 +1,41 @@
+# Australia Track Guide
+
+- Turn 1
+    - Break 75m
+    - Gear 5 of 4
+    - All curb
+- Turn 3
+    - Break 75m
+    - Gear 3 or 2
+    - Stay in the middle on exit
+- Turn 4
+    - Gear 4
+- Turn 6
+    - Break > 100m < 50m board
+    - Gear 4 or 3
+    - Can take curb
+- Turn 9
+    - Break 75m
+    - Gear 4
+    - Miss outer curb
+- Turn 11
+    - Break 50m
+    - Gear 6 or 7 -> 6
+    - Take full curb
+    - Left as possible
+- Turn 12
+    - Full throttle as soon
+    - Full curb on exit
+- Turn 13
+    - Break 75m
+    - Gear 4 or 3
+- Turn 14
+    - Gear 5
+    - Brake little if needed
+- Turn 15
+    - Break > 50m
+    - Gear 2
+    - Stay wide
+- Turn 16
+    - Gear 4
+    - Build speed slowly
