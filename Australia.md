@@ -11,7 +11,7 @@
 - Turn 4
     - Gear 4
 - Turn 6
-    - Break > 100m < 50m board
+    - Break 75m
     - Gear 4 or 3
     - Can take curb
 - Turn 9
