@@ -31,6 +31,7 @@
     - Gear 2
     - Break 50m
     - Stay wide
+    - Exit from center
 - Turn 14
     - Gear 4
     - Build speed slowly
