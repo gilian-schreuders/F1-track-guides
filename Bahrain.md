@@ -5,19 +5,19 @@
 - Turn 1
     - Gear 2
     - Break 120m
-    - Late entry
+    - Exit middle
 - Turn 2
-    - Gear 3 or 4
+    - Gear 4
 - Turn 4
-    - Gear 3
-    - Break 80m
-    - Go wide
+    - Gear 4 or 3
+    - Break 90m
+    - Exit wide
 - Turn 5
     - Stay left
 - Turn 6
     - Gear 6 or 5
 - Turn 8
-    - Gear 2
+    - Gear 2 or 1
 - Turn 9
     - Dont touch apex
     - Stay in middle
@@ -32,5 +32,5 @@
 - Turn 13
     - Gear 4
 - Turn 14
-    - Gear 3
+    - Gear 4 or 3
     - Break 99m
