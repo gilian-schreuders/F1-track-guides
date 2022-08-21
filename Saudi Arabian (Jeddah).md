@@ -1,6 +1,6 @@
 # Saudi Arabian circuit guide
 
-![map](https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/7col/image.png))
+![map](https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.png.transform/7col/image.png)
 
 - Turn 1
     - Gear 3
