@@ -5,6 +5,30 @@
 - Turn 1
   - Break at curb start (80m)
   - Gear 5
-- Turn 1
-  - Break at curb start (80m)
+- Turn 5
+  - Lift throttle
+  - Gear 7
+- Turn 6
+  - Break as needed
   - Gear 5
+- Turn 7
+  - Break 50m
+  - Gear 3
+- Turn 9
+  - Break after 50m
+  - Gear 5
+- Turn 11
+  - Gear 7
+- Turn 12
+  - Break before exit curb  
+  - Gear 4
+- Turn 14
+  - Break 50m 
+  - Gear 4
+  - Full curb
+- Turn 17
+  - Break 60m 
+  - Gear 4
+- Turn 18
+  - Slow throttle
+  - Gear 4
