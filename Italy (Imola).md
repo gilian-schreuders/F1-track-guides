@@ -30,5 +30,5 @@
   - Break 60m 
   - Gear 4
 - Turn 18
-  - Slow throttle
+  - Lift throttle
   - Gear 4
